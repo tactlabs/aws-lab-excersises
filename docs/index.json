@@ -1,34 +1,34 @@
 [
 {
-	"uri": "https://talha-altair.github.io/test-site/intro/",
+	"uri": "https://tactlabs.github.io/aws-lab-excersises/intro/",
 	"title": "AWS LABS INTRO",
 	"tags": [],
 	"description": "",
 	"content": "Introduction "
 },
 {
-	"uri": "https://talha-altair.github.io/test-site/",
+	"uri": "https://tactlabs.github.io/aws-lab-excersises/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": "WELCOME TO TACTLABS AWS LAB EXCERCISES "
 },
 {
-	"uri": "https://talha-altair.github.io/test-site/intro/access-and-tour-aws-console/",
+	"uri": "https://tactlabs.github.io/aws-lab-excersises/intro/access-and-tour-aws-console/",
 	"title": "Access and tour AWS console",
 	"tags": [],
 	"description": "",
 	"content": "Lab Details This AWS Lab is provided for practicing logging into AWS. Once logged in, students can navigate through the AWS console on their own to get themselves familiarized with the AWS console. By the end of the lab, you will understand how AWS console looks, know how to search for various AWS resources, and understand various AWS resource locations and how they are categorized.\nDuration: 15 minutes\nAWS Region: US East (N. Virginia) us-east-1\nTask Details Log into AWS Management Console.\nTour AWS console.\nChoose a region.\nValidation of the lab\n"
 },
 {
-	"uri": "https://talha-altair.github.io/test-site/categories/",
+	"uri": "https://tactlabs.github.io/aws-lab-excersises/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://talha-altair.github.io/test-site/tags/",
+	"uri": "https://tactlabs.github.io/aws-lab-excersises/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

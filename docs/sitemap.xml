@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://talha-altair.github.io/test-site/intro/</loc>
+    <loc>https://tactlabs.github.io/aws-lab-excersises/intro/</loc>
   </url>
   
   <url>
-    <loc>https://talha-altair.github.io/test-site/</loc>
+    <loc>https://tactlabs.github.io/aws-lab-excersises/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talha-altair.github.io/test-site/intro/access-and-tour-aws-console/</loc>
+    <loc>https://tactlabs.github.io/aws-lab-excersises/intro/access-and-tour-aws-console/</loc>
   </url>
   
   <url>
-    <loc>https://talha-altair.github.io/test-site/categories/</loc>
+    <loc>https://tactlabs.github.io/aws-lab-excersises/categories/</loc>
   </url>
   
   <url>
-    <loc>https://talha-altair.github.io/test-site/tags/</loc>
+    <loc>https://tactlabs.github.io/aws-lab-excersises/tags/</loc>
   </url>
   
 </urlset>

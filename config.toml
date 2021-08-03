@@ -1,4 +1,4 @@
-baseURL = "https://talha-altair.github.io/test-site/"
+baseURL = "https://tactlabs.github.io/aws-lab-excersises/"
 languageCode = "en-us"
 title = "TACT LABS"
 PublishDir="./docs"

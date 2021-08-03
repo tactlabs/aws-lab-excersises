@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TACT LABS</title>
-    <link>https://talha-altair.github.io/test-site/</link>
+    <link>https://tactlabs.github.io/aws-lab-excersises/</link>
     <description>Recent content on TACT LABS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://talha-altair.github.io/test-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tactlabs.github.io/aws-lab-excersises/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Access and tour AWS console</title>
-      <link>https://talha-altair.github.io/test-site/intro/access-and-tour-aws-console/</link>
+      <link>https://tactlabs.github.io/aws-lab-excersises/intro/access-and-tour-aws-console/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://talha-altair.github.io/test-site/intro/access-and-tour-aws-console/</guid>
+      <guid>https://tactlabs.github.io/aws-lab-excersises/intro/access-and-tour-aws-console/</guid>
       <description>Lab Details This AWS Lab is provided for practicing logging into AWS. Once logged in, students can navigate through the AWS console on their own to get themselves familiarized with the AWS console. By the end of the lab, you will understand how AWS console looks, know how to search for various AWS resources, and understand various AWS resource locations and how they are categorized.
 Duration: 15 minutes
 AWS Region: US East (N.</description>
